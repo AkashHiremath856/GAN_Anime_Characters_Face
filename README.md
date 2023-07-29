@@ -2,6 +2,8 @@
 
 Generated Anime Characters Face Using Generative Adversarial Network(GAN),
 
+### [Dataset link](https://www.kaggle.com/datasets/splcher/animefacedataset)
+
 ## Original Image
 <div>
 <img src='https://github.com/AkashHiremath856/GAN_Anime_Characters_Face/blob/main/images/original_image.png'/>
