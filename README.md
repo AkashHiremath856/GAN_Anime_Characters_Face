@@ -2,6 +2,16 @@
 
 Generated Anime Characters Face Using Generative Adversarial Network(GAN),
 
+## Original Image
+<div>
+<img src='https://github.com/AkashHiremath856/GAN_Anime_Characters_Face/blob/main/images/original_image.png'/>
+</div>
+
+## Generated Image
+<div>
+  <img src='https://github.com/AkashHiremath856/GAN_Anime_Characters_Face/blob/main/images/generated_image.png'/>
+</div>
+
 ## Run Locally
 
 Clone the project
@@ -13,23 +23,13 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Kannada-Character-Recoginition
-```
-
-```bash
-  unzip test_img.zip
+  cd GAN_Anime_Characters_Face
 ```
 
 Install dependencies
 
 ```bash
   pip3 install -r requirements.txt
-```
-
-Start the server
-
-```bash
-  streamlit run app.py
 ```
 
 ## Feedback
